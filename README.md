@@ -15,7 +15,7 @@ two very different domains.
 I studied at Vrije Universiteit Amsterdam in spring 2026, and I had such a
 good time working abroad that I'm hoping to do more of it.
 
-**Working with:** Java · Python · JavaScript · R
+**Working with:** Java · Python · JavaScript · R   
 **Thinking about:** operations research · human-centered design · systems engineering
 
 Always happy to talk about any of this — reach me at
