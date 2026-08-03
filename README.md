@@ -12,9 +12,6 @@ Prof. John Helveston. It shows drivers their *pace* instead of raw speed,
 to test whether that reframing gets people to ease off the gas. Same idea,
 two very different domains.
 
-I studied at Vrije Universiteit Amsterdam in spring 2026, and I had such a
-good time working abroad that I'm hoping to do more of it.
-
 **Working with:** Java · Python · JavaScript · R   
 **Thinking about:** operations research · human-centered design · systems engineering
 
